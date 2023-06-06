@@ -1,16 +1,38 @@
-### Hi there 👋
 
-<!--
-**RodrigoPretes/RodrigoPretes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Olá, eu sou o Rodrigo! 👋
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Sobre mim
+Eu sou um estudante de Engenharia de Computação pela PUC Minas e atualmente estou no 6°Periodo.
+
+
+## 🛠 Habilidades
+Javascript, HTML, CSS, Java
+
+<div align="center">
+  <a href="https://github.com/RodrigoPretes">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=RodrigoPretes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoPretes&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+
+
+## Fatos Interessantes
+
+🧠 Estou aprendendo Node.js, React.js e SpringBoot
+
+👯‍♀️ Procuro colaborar em projetos pessoais, empresariais e estudantis. 
+
+🤔 Procuro ajuda com crescimento pessoal e me tornar o melhor dev que posso ser.
+
+💬 Me pergunte sobre Java, Estrutura de Dados, Algoritmos.
+
+📫 Como entrar em contato comigo...
+
+
+
+
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/RodrigoPretes?tab=repositories)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigo-pretes-71a82a192/)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/rodrigopretes)
+

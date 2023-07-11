@@ -9,12 +9,6 @@ Eu sou um estudante de Engenharia de Computação pela PUC Minas e atualmente es
 ## 🛠 Habilidades
 Javascript, HTML, CSS, Java
 
-<div align="center">
-  <a href="https://github.com/RodrigoPretes">
-  <img height="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoPretes&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-
-
 ## Fatos Interessantes
 
 🧠 Estou aprendendo Node.js, React.js e SpringBoot

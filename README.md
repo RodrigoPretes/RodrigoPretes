@@ -7,7 +7,7 @@ Eu sou um estudante de Engenharia de Computação pela PUC Minas e atualmente es
 
 
 ## 🛠 Habilidades
-Javascript, HTML, CSS, Java
+Javascript, HTML, CSS, Java, C, Python
 
 ## Fatos Interessantes
 

@@ -3,15 +3,15 @@
 
 
 ## 🚀 Sobre mim
-Eu sou um estudante de Engenharia de Computação pela PUC Minas e atualmente estou no 6°Periodo.
+Eu sou um estudante de Engenharia de Computação pela PUC Minas.
 
 
 ## 🛠 Habilidades
-Javascript, HTML, CSS, Java, C, Python
+Javascript, Node, React, Java Spring Boot.
 
 ## Fatos Interessantes
 
-🧠 Estou aprendendo Node.js, React.js e SpringBoot
+🧠 Estou aprendendo Angular.
 
 👯‍♀️ Procuro colaborar em projetos pessoais, empresariais e estudantis. 
 
